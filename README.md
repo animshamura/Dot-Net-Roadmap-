@@ -21,6 +21,12 @@ Step 2 : Update your knowledge from <a href="https://www.youtube.com/@dotnet/pla
 - Code Wrinkles https://lnkd.in/dKGrvSuE <br/>
 - Rahul Nath https://lnkd.in/dg38cxEe <br/>
 
+𝗩𝗶𝗱𝗲𝗼 𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀
+- C# https://bit.ly/41l0qEg
+- Desktop https://bit.ly/3o82scH
+- ASP .NET https://bit.ly/413blCU
+- Mobile - MAUI https://bit.ly/43qK2nr
+- Dockers & Microservices https://bit.ly/3mvxc6U
 𝗕𝗼𝗼𝗸𝘀
 - C# in Depth by Jon Skeet https://amzn.to/44glvRU
 
